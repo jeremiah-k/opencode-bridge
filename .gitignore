@@ -1,5 +1,5 @@
 # Credentials (never commit your key!)
-.codex/agents/opencode-go.env
+opencode-go.env
 
 *.sqlite3
 *.sqlite3-wal
